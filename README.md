@@ -1,1 +1,1 @@
-# HackerRank-30-day-coding-challenge-C-
+# HackerRank-30-day-coding-challenge-C++
